@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Solway:wght@300;400;500;700;800&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+@theme{
+    --font-primary: 'Source Sans 3', sans-serif;
+    --font-secondary: 'Solway', serif;
+    --color-primary:#032541;
+    --color-secondary:#21d07a;
+}
